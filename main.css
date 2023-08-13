@@ -22,7 +22,7 @@ img{
     padding: 120px 0 0 0;
 }
 
-.menu{
+.yin{
     position: absolute;
     top: 0;
     left: 0;
@@ -40,11 +40,11 @@ img{
     text-transform: uppercase;
 }
 
-.menu .navbar ul li {
+.yin .navbar ul li {
     position: relative;
     float: left;
 }
-.menu .navbar ul li a {
+.yin .navbar ul li a {
     font-size: 18px;
     color: white;
     display: block;
@@ -52,18 +52,18 @@ img{
     font-weight: 600;
 }
 
-.menu .navbar ul li a:hover{
+.yin .navbar ul li a:hover{
     color: gold;
 }
 
-#menu{
+#yin{
     display: none;
 }
-.menu-icono{
+.yin-icono{
     width: 25px;
 }
 
-.menu label{
+.yin label{
     cursor: pointer;
     display: none;
 }
@@ -136,42 +136,42 @@ h2{
 }
 
 
-.food {
+.jean {
     padding: 50px 0 50px 0;
     text-align: center;
 }
-.food-content{
+.jean-content{
     margin: 50px 250px 0 250px;
 }
 
-.food-1{
+.jean-1{
     display: flex;
     justify-content: space-between;
     margin-bottom: 35px;
 }
 
-.food-img{
+.jean-img{
     flex-basis: 30%;
 }
-.food-img img{
+.jean-img img{
     border-radius: 25px;
     width: 200px;
 }
 
-.food-txt {
+.jean-txt {
     flex-basis: 70%;
     text-align: left;
     margin-left: 30px;
 }
-.food-txt h3{
+.jean-txt h3{
     color: whitesmoke;
     font-size: 18px;
     margin-bottom: 10px;
 }
-.food-txt p{
+.jean-txt p{
     margin-bottom: 10px;
 }
-.food-txt span{
+.jean-txt span{
     font-size: 17px;
     color: gold;
     font-weight: 800;
